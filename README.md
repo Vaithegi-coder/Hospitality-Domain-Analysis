@@ -20,13 +20,17 @@ Create the metrics according to the metric list.
 Create a dashboard according to the mock-up provided by stakeholders.
 Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
-[Provided Mock-up Dashboard](https://github.com/Vaithegi-coder/Hospitality-Domain-Analysis/blob/main/Images/mock%20up%20dashboard_atliq%20grands.png)
+## Provided Mock-up Dashboard
+![Provided Mock-up Dashboard](https://github.com/Vaithegi-coder/Hospitality-Domain-Analysis/blob/main/Images/mock%20up%20dashboard_atliq%20grands.png)
 
-[Data Model](https://github.com/Vaithegi-coder/Hospitality-Domain-Analysis/blob/main/Images/Data%20Model.png)
+## Data Model
+![Data Model](https://github.com/Vaithegi-coder/Hospitality-Domain-Analysis/blob/main/Images/Data%20Model.png)
 
-[Overall View](https://github.com/Vaithegi-coder/Hospitality-Domain-Analysis/blob/main/Images/Main%20Page.png)
+## Overall View
+![Overall View](https://github.com/Vaithegi-coder/Hospitality-Domain-Analysis/blob/main/Images/Main%20Page.png)
 
-[Monthly Analysis View](https://github.com/Vaithegi-coder/Hospitality-Domain-Analysis/blob/main/Images/Monthly%20View.png)
+## Monthly Analysis View
+![Monthly Analysis View](https://github.com/Vaithegi-coder/Hospitality-Domain-Analysis/blob/main/Images/Monthly%20View.png)
 
 **Learnt things from this Project**
 
