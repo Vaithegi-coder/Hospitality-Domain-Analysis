@@ -27,7 +27,7 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 ![Data Model](https://github.com/Vaithegi-coder/Hospitality-Domain-Analysis/blob/main/Images/Data%20Model.png)
 
 ## Overall View
-![Overall View](https://github.com/Vaithegi-coder/Hospitality-Domain-Analysis/blob/main/Images/Main%20Page.png)
+![Overall View](https://github.com/Vaithegi-coder/Hospitality-Domain-Analysis/blob/main/Images/Dashboard%20Image.png)
 
 ## Monthly Analysis View
 ![Monthly Analysis View](https://github.com/Vaithegi-coder/Hospitality-Domain-Analysis/blob/main/Images/Monthly%20View.png)
