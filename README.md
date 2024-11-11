@@ -30,7 +30,7 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 ![Overall View](https://github.com/Vaithegi-coder/Hospitality-Domain-Analysis/blob/main/Images/Dashboard%20Image.png)
 
 ## Monthly Analysis View
-![Monthly Analysis View](https://github.com/Vaithegi-coder/Hospitality-Domain-Analysis/blob/main/Images/Monthly%20View.png)
+![Monthly Analysis View](https://github.com/Vaithegi-coder/Hospitality-Domain-Analysis/blob/main/Images/Monthly%20Dashboard.png)
 
 **Learnt things from this Project**
 
@@ -44,16 +44,15 @@ Tried using color palette and stick with that colors throughout the dashboard [C
 
 **Some Important insights from the Dashboard**
 
-Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi.
+Mumbai generates highest revenue and Delhi the least revenue during May to Jul 2022. Company need to focus on increasing the revenue in Delhi.
 
-AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
+The occupancy rate is higher during weekends across all cities, months and booking platforms. Leverage this insight to increase revenue generated during weekends.
 
-AtliQ Bay has the highest occupancy of 66%.
+70% of the bookings are checked out while 5% of booking don’t show up across all cities and booking platforms which means 75% of bookings generate revenue for AtliQ hotels. Identify and analyze the reasons for cancellations and try to reduce them.
 
-Week 24 recorded the highest revenue among all, which is 139.6 Million.
+Avg rating varies between 3.4 to 3.8 across cities. Compare it with the industry benchmark across cities and evaluate the performance.
+Occupancy rate is highest at Delhi with 60+ % for all months though generates least revenue compared to other cities. Identify the reason for higher occupancy and use that to drive the revenue growth.
 
-Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore.
+![image](https://github.com/user-attachments/assets/1e6d0511-4711-4f47-8dae-9c79a4178e16)
 
-AtliQ lost around 298 Million in cancellation.
-
-Elite type rooms has the most booking and as well higher cancellation rate.
+![image](https://github.com/user-attachments/assets/72308056-2e56-4521-bc7e-2106ab074eed)
