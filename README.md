@@ -53,7 +53,3 @@ The occupancy rate is higher during weekends across all cities, months and booki
 Avg rating varies between 3.4 to 3.8 across cities. Compare it with the industry benchmark across cities and evaluate the performance.
 
 Occupancy rate is highest at Delhi with 60+ % for all months though generates least revenue compared to other cities. Identify the reason for higher occupancy and use that to drive the revenue growth.
-
-![image](https://github.com/user-attachments/assets/1e6d0511-4711-4f47-8dae-9c79a4178e16)
-
-![image](https://github.com/user-attachments/assets/72308056-2e56-4521-bc7e-2106ab074eed)
